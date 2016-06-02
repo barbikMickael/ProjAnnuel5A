@@ -1,6 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 3c788335fe2df44ca9bbf95bc580ce4d
 folderAsset: yes
 DefaultImporter:
   userData: 
   assetBundleName: 
+=======
+guid: c1ec83c745ae29444a6707de200796a8
+folderAsset: yes
+timeCreated: 1464742278
+licenseType: Free
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> origin/Mickael
