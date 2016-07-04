@@ -10,6 +10,8 @@ public class DialogueBoxManager : MonoBehaviour {
     public GestionEmotion playerEMotion;
     public int currentLine;
     public int endAtLine;
+    public float timer;
+
     // Use this for initialization
     void Start () {
         if (textFile != null)
@@ -31,6 +33,19 @@ public class DialogueBoxManager : MonoBehaviour {
         }
             
 	}
+
+    public void ButtonCharmPressed()
+    {
+       
+        StartCoroutine(DialogueTimer());
+    }
+        
+    IEnumerator DialogueTimer()
+    {  
+         
+        yield return new WaitForSeconds(timer);
+        NextDialogue();
+    }
 
     void NextDialogue()
     {

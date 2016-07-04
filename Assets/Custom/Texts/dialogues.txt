@@ -1,3 +1,3 @@
-Arwen : i lu i erui govannem ? [Vous souvenez-vous de notre première rencontre ?]
-Arwen : U-arnech in naeth i si celich.[De longues années ont passées, vous n'aviez pas alors les mêmes tourments. Que vous avais-je dis ?]
-Arwen :  La memoire des hommes est si courte, je suis vexée. Au revoir.
+i lu i erui govannem ? [Vous souvenez-vous de notre première rencontre ?]
+U-arnech in naeth i si celich.[De longues années ont passées, vous n'aviez pas alors les mêmes tourments. Que vous avais-je dis ?]
+La memoire des hommes est si courte, je suis vexée. Au revoir.
